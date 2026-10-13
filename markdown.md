@@ -56,7 +56,7 @@ Este programa recorre una lista de motocicletas y muestra sus nombres en pantall
 
 Esta imagen está guardada dentro de la carpeta `assets` de mi repositorio.
 
-![Motocicleta Harley-Davidson](assets/mi-imagen.png)
+![Motocicleta Harley-Davidson](assets/harley.jpg)
 
 ## Imagen externa de Wikimedia Commons
 
