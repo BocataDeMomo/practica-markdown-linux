@@ -60,7 +60,7 @@ Esta imagen está guardada dentro de la carpeta `assets` de mi repositorio.
 
 ## Imagen externa de Wikimedia Commons
 
-![IES CLARA DEL REY](https://commons.wikimedia.org/wiki/File:I.e.s._clara_del_rey_(Prosperidad,_Madrid).jpg)
+![IES CLARA DEL REY](https://commons.wikimedia.org/wiki/Special:Redirect/file/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg)
 
 Esta fotografía pertenece a Wikimedia Commons y muestra una motocicleta Harley-Davidson.
 
