@@ -60,13 +60,15 @@ Esta imagen está guardada dentro de la carpeta `assets` de mi repositorio.
 
 ## Imagen externa de Wikimedia Commons
 
+[IES CLARA DEL REY](https://commons.wikimedia.org/wiki/File:I.e.s._clara_del_rey_(Prosperidad,_Madrid).jpg)
+
 Esta fotografía pertenece a Wikimedia Commons y muestra una motocicleta Harley-Davidson.
 
 ![Harley-Davidson de Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/5/50/Harley-Davidson.jpg)
 
 Fotografía de M62, publicada en Wikimedia Commons con licencia Creative Commons Attribution-ShareAlike.
 
-[Consultar la información y licencia de la fotografía](https://commons.wikimedia.org/wiki/File:Harley-Davidson.jpg)
+[Consultar la información y licencia de la fotografía]([https://commons.wikimedia.org/wiki/File:Harley-Davidson.jpg](https://commons.wikimedia.org/wiki/File:I.e.s._clara_del_rey_(Prosperidad,_Madrid).jpg))
 
 ## Enlaces de interés
 
