@@ -58,9 +58,9 @@ Esta imagen está guardada dentro de la carpeta `assets` de mi repositorio.
 
 ![Motocicleta Harley-Davidson](assets/harley.jpg)
 
-## Imagen externa de Wikimedia Commons
+## Instituto IES Clara del Rey
 
-![IES CLARA DEL REY](https://commons.wikimedia.org/wiki/Special:Redirect/file/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg)
+![Instituto IES Clara del Rey](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg/960px-I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 Esta fotografía pertenece a Wikimedia Commons y muestra una motocicleta Harley-Davidson.
 
