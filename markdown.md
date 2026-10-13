@@ -68,7 +68,7 @@ Esta fotografía pertenece a Wikimedia Commons y muestra una motocicleta Harley-
 
 Fotografía de M62, publicada en Wikimedia Commons con licencia Creative Commons Attribution-ShareAlike.
 
-[Consultar la información y licencia de la fotografía]([https://commons.wikimedia.org/wiki/File:Harley-Davidson.jpg](https://commons.wikimedia.org/wiki/File:I.e.s._clara_del_rey_(Prosperidad,_Madrid).jpg))
+[Consultar la información y licencia de la fotografía]([https://commons.wikimedia.org/wiki/File:Harley-Davidson.jpg](https://commons.wikimedia.org/wiki/File:I.e.s._clara_del_rey.jpg))
 
 ## Enlaces de interés
 
